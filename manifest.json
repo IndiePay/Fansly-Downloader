@@ -1,0 +1,60 @@
+{
+  "manifest_version": 3,
+  "action": {},
+  "background": {
+    "service_worker": "service-worker-loader.js",
+    "type": "module"
+  },
+  "permissions": [
+    "storage",
+    "identity",
+    "downloads",
+    "system.display",
+    "scripting"
+  ],
+  "icons": {
+    "16": "src/assets/icon-16.png",
+    "48": "src/assets/icon-48.png",
+    "128": "src/assets/icon-128.png"
+  },
+  "name": "Fansly™ Helper",
+  "short_name": "Fansly",
+  "description": "Download content from your Fansly active subscriptions.",
+  "version": "1.4.9",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAon1+HzBMdmt+tTuC/ykST76Q/DrcaFb1GAvpHbywvmbEcuY5vseXgVfHdO4npFtZoic4IsgPUYXy21uARatK8gX3gIJEBUNNmVNZcyIubP/dsGcljYVo3gTiO2RbncIcR73AfdxZd/aH/e27xHZpMPwnVuzwTOMULpilllbQRSRnp0Y9vkrMr/9DABvjS+MVNVfkE3450OnzbcAlGuDQjbMX1Z2LmYfP04MEwxAA1Ay7SmD6Pb/byelbzJLFiEOuGwBFtDFYVVcdOZHYNswRzje7QXxLlTK6RKSV/vcj3GpQr0CvHVGTsbMp+Eg/aREUtVO6dKH+AjOZe6MLLwv/LQIDAQAB",
+  "oauth2": {
+    "client_id": "180346679292-dgq08v7tnrvot0vmk3kjpu73su6levak.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/userinfo.email"
+    ]
+  },
+  "host_permissions": [
+    "*://*.fansly.com/*"
+  ],
+  "content_scripts": [
+    {
+      "js": [
+        "assets/content.ts-loader-af51ee0b.js"
+      ],
+      "matches": [
+        "*://*.fansly.com/*"
+      ],
+      "css": [
+        "assets/style.css"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "*://*.fansly.com/*"
+      ],
+      "resources": [
+        "assets/content.ts-8e0e2e27.js"
+      ],
+      "use_dynamic_url": true
+    }
+  ]
+}
