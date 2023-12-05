@@ -5,34 +5,34 @@
 </div>
 
 <div align="center">
-    <a href="https://github.com/IndiaPay/Fansly-Downloader/releases/latest">
-        <img src="https://img.shields.io/github/downloads/IndiaPay/Fansly-Downloader/total?color=0078d7&label=%F0%9F%94%BD%20Downloads&style=flat-square" alt="Downloads" />
+    <a href="https://github.com/IndiePay/Fansly-Downloader/releases/latest">
+        <img src="https://img.shields.io/github/downloads/IndiePay/Fansly-Downloader/total?color=0078d7&label=%F0%9F%94%BD%20Downloads&style=flat-square" alt="Downloads" />
     </a>
-    <a href="https://github.com/IndiaPay/Fansly-Downloader/releases/latest">
-        <img src="https://img.shields.io/github/v/release/IndiaPay/Fansly-Downloader?color=%23b02d4a&display_name=tag&label=%F0%9F%9A%80%20Latest%20Compiled%20Release&style=flat-square" alt="Latest Release" />
+    <a href="https://github.com/IndiePay/Fansly-Downloader/releases/latest">
+        <img src="https://img.shields.io/github/v/release/IndiePay/Fansly-Downloader?color=%23b02d4a&display_name=tag&label=%F0%9F%9A%80%20Latest%20Compiled%20Release&style=flat-square" alt="Latest Release" />
     </a>
-    <a href="https://github.com/IndiaPay/Fansly-Downloader/commits/master">
-        <img src="https://img.shields.io/github/commits-since/IndiaPay/Fansly-Downloader/latest?color=orange&label=%F0%9F%92%81%20Uncompiled%20Commits&style=flat-square" alt="Commits since latest release" />
+    <a href="https://github.com/IndiePay/Fansly-Downloader/commits/master">
+        <img src="https://img.shields.io/github/commits-since/IndiePay/Fansly-Downloader/latest?color=orange&label=%F0%9F%92%81%20Uncompiled%20Commits&style=flat-square" alt="Commits since latest release" />
     </a>
-    <a href="https://github.com/IndiaPay/Fansly-Downloader/issues?q=is%3Aissue+is%3Aopen+label%3Abug">
-        <img src="https://img.shields.io/github/issues-raw/IndiaPay/Fansly-Downloader/bug?color=pink&label=%F0%9F%A6%84%20Active%20Bugs&style=flat-square" alt="Active Bugs" />
+    <a href="https://github.com/IndiePay/Fansly-Downloader/issues?q=is%3Aissue+is%3Aopen+label%3Abug">
+        <img src="https://img.shields.io/github/issues-raw/IndiePay/Fansly-Downloader/bug?color=pink&label=%F0%9F%A6%84%20Active%20Bugs&style=flat-square" alt="Active Bugs" />
     </a>
-    <a href="https://github.com/IndiaPay/Fansly-Downloader/stargazers">
-        <img src="https://img.shields.io/github/stars/IndiaPay/Fansly-Downloader?style=flat-square&label=%E2%AD%90%20Stars&color=ffc83d" alt="Stars" />
+    <a href="https://github.com/IndiePay/Fansly-Downloader/stargazers">
+        <img src="https://img.shields.io/github/stars/IndiePay/Fansly-Downloader?style=flat-square&label=%E2%AD%90%20Stars&color=ffc83d" alt="Stars" />
     </a>
 </div>
 
 <div align="center">
-    <a href="https://github.com/IndiaPay/Fansly-Downloader#%EF%B8%8F-set-up">
+    <a href="https://github.com/IndiePay/Fansly-Downloader#%EF%B8%8F-set-up">
         <img src="https://img.shields.io/badge/Compatible with-grey?style=flat-square" alt="Compatible with text" />
     </a>
-    <a href="https://github.com/IndiaPay/Fansly-Downloader#%EF%B8%8F-set-up">
+    <a href="https://github.com/IndiePay/Fansly-Downloader#%EF%B8%8F-set-up">
         <img src="https://img.shields.io/badge/%F0%9F%AA%9F-Windows-0078D6?style=flat-square" alt="Compatible with Windows" />
     </a>
-    <a href="https://github.com/IndiaPay/Fansly-Downloader#%EF%B8%8F-set-up">
+    <a href="https://github.com/IndiePay/Fansly-Downloader#%EF%B8%8F-set-up">
     <img src="https://img.shields.io/badge/%F0%9F%8C%95-Mac-999999?style=flat-square" alt="Compatible with Mac" />
   </a>
-    <a href="https://github.com/IndiaPay/Fansly-Downloader#%EF%B8%8F-set-up">
+    <a href="https://github.com/IndiePay/Fansly-Downloader#%EF%B8%8F-set-up">
         <img src="https://img.shields.io/badge/%F0%9F%90%A7-Linux-FCC624?style=flat-square" alt="Compatible with Linux" />
     </a>
 </div>
